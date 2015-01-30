@@ -1,0 +1,70 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2014-11-13, 19:55:31
+    Author     : Cheng Guo
+*/
+
+body { 
+    background: url('../img/stadium.jpg') no-repeat center center fixed transparent; 
+    background-size: 100% 100%;
+}
+
+h1{
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    font-family: 'Dancing Script', Georgia, Times, serif;
+}
+
+.bar{
+    background-color: #F66733
+}
+
+#logout{
+    text-align: right;
+    color:white;
+    font-size:20px;
+}
+
+h2{
+    font-size: 30px;
+    text-align: center;
+    color: #F66733
+}
+
+.page{
+    text-align: center;
+}
+
+.label{
+    color: #F66733;
+    font-size: 20px;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+.btn-custom {
+    background-color: #F66733;
+    border-color: #F66733;
+    color: white;
+}
+
+#username{
+    height: 45px;
+}
+
+#password{
+    height: 45px;
+}
+
+#error{
+    font-size: 20px;
+    color: red;
+}
